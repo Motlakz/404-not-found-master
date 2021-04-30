@@ -32,7 +32,7 @@
 
 ![screenshot](https://i.imgur.com/FhTsCQP.png)
 
-What you see in the screenshot above is my own peronal version of the famous 404 error page. You can visit my demonstration on my GitHub for which I provided the link above.
+What you see in the screenshot above is my own personal version of the famous 404 error page. You can visit my demonstration on my GitHub for which I provided the link above.
 I worked on it for at least 4 hours. 2 hours on one day and 2 hours the day after. My experience was initially frustrating but I learned some great thing like how to properly format my code to make it more readable and how to finally apply my recent grid learning.
 Word to the wise - however tough it may seem at first, remember there is always a way and a whole community willing to help!
 
